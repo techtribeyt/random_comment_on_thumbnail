@@ -5,5 +5,9 @@ I wrote a program that picks a random YouTube comment from the comment section a
 
 **This is currently live!** You can go to my video: https://www.youtube.com/watch?v=RXN1d_UpaAY, and leave a comment. You will be automatically notified by my program when your thumbnail has been featured (just once to not be annoying). You can go straight to the channel and see what the current thumbnail says.
 
+Here is what a thumbnail with a comment looks like:
+![Thumbnail](/thumbnail_example.jpg)
+
+
 The program uses the YouTube API with AWS Lambda to run this code every 15 minutes. I included all of the code I am using here except the authentication. A good authentication tutorial can be found here: https://www.youtube.com/watch?v=vQQEaSnQ_bs.
  
